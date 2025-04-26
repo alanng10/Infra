@@ -51,3 +51,5 @@ Infra has park kind arch marry.
 Infra has park kind arch land.
 
 Infra is did.
+
+Infra has major.
